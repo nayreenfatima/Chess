@@ -1,1 +1,1 @@
-# Chess
+# Chess Engine in Java
